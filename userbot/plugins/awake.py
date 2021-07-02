@@ -7,7 +7,7 @@ from userbot.utils import lightning_cmd
 import os
 ALIVE_PHOTTO = os.environ.get("ALIVE_PHOTTO", None)
 if ALIVE_PHOTTO is None:
-    ALIVE_PHOTTO = "https://telegra.ph/file/17b2d55c3bb07b2d8f805.mp4"
+    ALIVE_PHOTTO = "https://telegra.ph/file/f98d138354df7d2f914de.jpg"
 else:
     ALIVE_PHOTTO = ALIVE_PHOTTO
 
@@ -18,13 +18,13 @@ DEFAULTUSER = (
 
 ALIVE_MESSAGE = Var.ALIVE_MESSAGE
 if not ALIVE_MESSAGE:
-    ALIVE_MESSAGE = "**🔱Black Lightning IS Awake🔱 \n\n\n**"
-    ALIVE_MESSAGE += "`My Bot Status \n\n\n`"
-    ALIVE_MESSAGE += f"`Telethon: TELETHON-15.0.0 \n\n`"
-    ALIVE_MESSAGE += f"`Python: PYTHON-3.8.5 \n\n`"
-    ALIVE_MESSAGE += "`I'll Be With You Master Till My Dyno Ends!!☠ \n\n`"
-    ALIVE_MESSAGE += f"`Support Channel` : @blacklightningot \n\n"
-    ALIVE_MESSAGE += f"`MY BOSS🤗`: {DEFAULTUSER} \n\n "
+    ALIVE_MESSAGE = "**✨Yᴜᴘᴘ.. I'ᴍ ᴀᴡᴀᴋᴇ✨ \n\n\n**"
+    ALIVE_MESSAGE +=       " `Bᴏᴛ Sᴛᴀᴛᴜs \n\n\n`"
+    ALIVE_MESSAGE += f"`Tᴇʟᴇᴛʜᴏɴ ==> Tᴇʟᴇᴛʜᴏɴ-15.0.0 \n\n`"
+    ALIVE_MESSAGE += f"`Pʏᴛʜᴏɴ ==> Pʏᴛʜᴏɴ-3.8.5 \n\n`"
+    ALIVE_MESSAGE += "`I'ʟʟ Bᴇ Wɪᴛʜ Yᴏᴜ Mᴀsᴛᴇʀ Tɪʟʟ Mʏ Dʏɴᴏ Eɴᴅs!!😉 \n\n`"
+    ALIVE_MESSAGE += f"`Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ` ==>  @Kakashi_Support \n\n"
+    ALIVE_MESSAGE += f"`Mʏ Pᴇᴇʀᴏᴏ Mᴀsᴛᴇʀ` ==> {DEFAULTUSER} \n\n "
 else:
     ALIVE_MESSAGE = ALIVE_MESSAGE
 
