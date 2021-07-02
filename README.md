@@ -1,114 +1,115 @@
-
-<h2 align="center"><b>Owner: <a href="https://telegram.dog/krish1303y">B乛LAC丨ᗩᑎᗰᗝᒪ ᔕᖇIᐯᗩᔕ丅ᗩᐯᗩ 🇮🇳 ⁪⁬⁮⁮⁮#ƈʏɮɛʀlєgєnds</a></b></h2>
+<h2 align="center"><b>A PᴏᴡᴇʀFᴜʟ UsᴇʀBᴏᴛ Mᴀᴅᴇ Bʏ <a href="https://telegram.dog/Its_JassManak">꧁༺ʝǟֆֆ ʍǟռǟӄ.♥️👻༻꧂</a> Wɪᴛʜ ʟᴏᴛs ᴏғ ʟᴏᴠᴇ..❤️</b></h2> 
 <br>
-<p align="center"><a href="https://t.me/lightning_support_group"><img src="https://telegra.ph/file/07d55d71944a852ac6d5e.jpg"></a></p> 
+<p align="center"><a href="https://t.me/Kakashi_Support"><img 
+src="https://telegra.ph/file/8e158f3cccac5ee2eeece.jpg"></a></p> 
 </p>
-<h1>BLACK LIGHTNING</h1>
-<b>A Powerful, Smart And Simple Userbot In Telethon.</b>
+<h1>ᴋᴀᴋᴀsʜɪ ᴜsᴇʀʙᴏᴛ</h1>
+<b>A Pᴏᴡᴇʀғᴜʟ Usᴇʀʙᴏᴛ Fᴏʀ Tᴇʟᴇɢʀᴀᴍ Usᴇʀs Tᴏ Mᴀɪɴᴛᴀɪɴ Yᴏᴜʀ Aᴄᴄᴏᴜɴᴛ..</b>
 <br>
 <br>
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/KeinShin/Black-Lightning)
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning#copyright--license)
-[![Stars](https://img.shields.io/github/stars/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/stargazers)
-[![Forks](https://img.shields.io/github/forks/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/network/members)
-[![Issues Open](https://img.shields.io/github/issues/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/issues)
-[![Issues Closed](https://img.shields.io/github/issues-closed/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/issues?q=is:closed)
-[![PR Open](https://img.shields.io/github/issues-pr/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/pulls)
-[![PR Closed](https://img.shields.io/github/issues-pr-closed/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/pulls?q=is:closed)
-![Repo Size](https://img.shields.io/github/repo-size/KeinShin/Black-Lightning?style=flat-square)
+[![Oᴘᴇɴ Sᴏᴜʀᴄᴇ](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/ProBoy-X/Kakashi-UserBot)
+[![GPLᴠ3 ʟɪᴄᴇɴsᴇ](https://img.shields.io/badge/License-GPLv3-blue.svg?&style=flat-square)]( https://github.com/ProBoy-X/Kakashi-UserBot#copyright--license)
+[![Sᴛᴀʀs](https://img.shields.io/github/stars/ProBoy-X/Kakashi-UserBot?&style=flat-square)]( https://github.com/ProBoy-X/Kakashi-UserBot/stargazers)
+[![Fᴏʀᴋs](https://img.shields.io/github/forks/ProBoy-X/Kakashi-UserBot?&style=flat-square)]( https://github.com/ProBoy-X/Kakashi-UserBot/network/members)
+[![Issᴜᴇs Oᴘᴇɴ](https://img.shields.io/github/issues/ProBoy-X/Kakashi-UserBot?&style=flat-square)]( https://github.com/ProBoy-X/Kakashi-UserBot/issues)
+[![Issᴜᴇs Cʟᴏsᴇᴅ](https://img.shields.io/github/issues-closed/ProBoy-X/Kakashi-UserBot?&style=flat-square)]( https://github.com/ProBoy-X/Kakashi-UserBot/issues?q=is:closed)
+[![PR Oᴘᴇɴ](https://img.shields.io/github/issues-pr/ProBoy-X/Kakashi-UserBot?&style=flat-square)]( https://github.com/ProBoy-X/Kakashi-UserBot/pulls)
+[![PR Cʟᴏsᴇᴅ](https://img.shields.io/github/issues-pr-closed/ProBoy-X/Kakashi-UserBot?&style=flat-square)]( https://github.com/ProBoy-X/Kakashi-UserBot/pulls?q=is:closed)
+![Rᴇᴘᴏ Sɪᴢᴇ](https://img.shields.io/github/repo-size/ProBoy-X/Kakashi-UserBot?style=flat-square)
 <br>
-
 
 # Credits 
-## This is A Remix Bot Of Many UserBot.
-* [DARKCOBRA](https://github.com/DARK-COBRA/DARKCOBRA)
-* [FridayUserBot](https://github.com/DevsExpo/FridayUserbot)
-* [Jarvisuserbot](https://github.com/Jarvis-Works/JarvisUserbot)
-* [Javes 2.0](https://github.com/Javes786/javes-2.0)
-* [TeleBot](https://github.com/xditya/TeleBot)
-* [Uniborg](https://github.com/SpEcHiDe/UniBorg)
-* [CipherX](https://t.me/CipherXBot)
-* [Hellboi-Danish](https://t.me/Hellboi-Danish)
+## • Bʟᴀᴄᴋ Lɪɢʜᴛɴɪɴɢ »» <a href="https://github.com/keinshin/Black-Lightning" alt="B Lɪɢʜᴛɴɪɴɢ"> <img src="https://img.shields.io/badge/Black-Lightning-E5E4E2?logo=github" /></a>
+## • Jᴀss Mᴀɴᴀᴋ »» <a href="https://github.com/JassManak1125" alt="Jᴀss"> <img src="https://img.shields.io/badge/Jᴀss Mᴀɴᴀᴋ-8f4b3d?logo=github" /></a>
 
 
-# Support
-<a href="https://t.me/Black_lightning_Channel"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/lightning_support_group"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+## Tᴏᴛᴀʟ Cᴏᴍᴍᴀɴᴅs = CMDS Aʀᴇ Mᴏʀᴇ Tʜᴀɴ 470 :D
 
-## Total Commands = CMDS Are More Than 470 :D
-# About ɮʟǟƈᏦ ʟɨɢɦƭռɨռɢ
 
-1. Can Do Many This Such As Download ANy Video From Youtube and Other Sites
+# Aʙᴏᴜᴛ Kᴀᴋᴀsʜɪ UsᴇʀBᴏᴛ..
 
-2. Many Things For Adult Tho....
+1. Cᴀɴ Dᴏ Mᴀɴʏ Tʜɪs Sᴜᴄʜ As Dᴏᴡɴʟᴏᴀᴅ ANʏ Vɪᴅᴇᴏ Fʀᴏᴍ Yᴏᴜᴛᴜʙᴇ ᴀɴᴅ Oᴛʜᴇʀ Sɪᴛᴇs
 
-3. Many Cool CMDS To Trick Your Friends
 
-4. Can Give Mast To Any Img Such As .Krish Mask,Gold Mask, ManyOther
+2. Mᴀɴʏ Tʜɪɴɢs Fᴏʀ Aᴅᴜʟᴛ Tʜᴏ....
 
-5. And More CMDS Just Deploy It 
 
-6. Can Spam Over 9999 Words And Can Spam Images And Medias
+3. Mᴀɴʏ Cᴏᴏʟ CMDS Tᴏ Tʀɪᴄᴋ Yᴏᴜʀ Fʀɪᴇɴᴅs
 
-7. Its Has Many Plugins To Trick Your Friends 
 
-8. Many  Animated Filters Plugins Like ```Rock``` ```Hello```  ```Heart```  ```Adults``` Filters Like ``Sax`` etc....
+4. Cᴀɴ Gɪᴠᴇ Mᴀsᴛ Tᴏ Aɴʏ Iᴍɢ Sᴜᴄʜ As .Kʀɪsʜ Mᴀsᴋ,Gᴏʟᴅ Mᴀsᴋ, MᴀɴʏOᴛʜᴇʀ
 
-9. Can Tell You About The Person when he/she Will Enter In Ur Grup That He Is Spammer And Will Ban him/her automatically
 
-10. Can Tell You Any State or COuntry Coivd Cases
+5. Aɴᴅ Mᴏʀᴇ CMDS Jᴜsᴛ Dᴇᴘʟᴏʏ Iᴛ 
 
-11. Can Give u Cricket Scores (Credits Given In Plugins)
 
-12. And If You Are Goinn To Sleep Do ```.night``` The Bot WIll Auto Reply Messages With A Good Night Message ( Some Thing Like Afk But Different)
+6. Cᴀɴ Sᴘᴀᴍ Oᴠᴇʀ 9999 Wᴏʀᴅs Aɴᴅ Cᴀɴ Sᴘᴀᴍ Iᴍᴀɢᴇs Aɴᴅ Mᴇᴅɪᴀs
 
-13. Afk Feature When You Are Goin Offline
 
-14. And If You Are Goinn For Study  Do ```.study``` The Bot WIll Auto Reply Messages With A Good Study Message ( Some Thing Like Afk But Different)
+7. Iᴛs Hᴀs Mᴀɴʏ Pʟᴜɢɪɴs Tᴏ Tʀɪᴄᴋ Yᴏᴜʀ Fʀɪᴇɴᴅs 
 
-15. And 5 types Of Hack CMDs
 
-16. And Many More CMDS 
+8. Mᴀɴʏ  Aɴɪᴍᴀᴛᴇᴅ Fɪʟᴛᴇʀs Pʟᴜɢɪɴs Lɪᴋᴇ ```Rᴏᴄᴋ``` ```Hᴇʟʟᴏ```  ```Hᴇᴀʀᴛ```  ```Aᴅᴜʟᴛs``` Fɪʟᴛᴇʀs Lɪᴋᴇ ``Sᴀx`` ᴇᴛᴄ....
 
+
+9. Cᴀɴ Tᴇʟʟ Yᴏᴜ Aʙᴏᴜᴛ Tʜᴇ Pᴇʀsᴏɴ ᴡʜᴇɴ ʜᴇ/sʜᴇ Wɪʟʟ Eɴᴛᴇʀ Iɴ Uʀ Gʀᴜᴘ Tʜᴀᴛ Hᴇ Is Sᴘᴀᴍᴍᴇʀ Aɴᴅ Wɪʟʟ Bᴀɴ ʜɪᴍ/ʜᴇʀ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ
+
+
+10. Cᴀɴ Tᴇʟʟ Yᴏᴜ Aɴʏ Sᴛᴀᴛᴇ ᴏʀ COᴜɴᴛʀʏ Cᴏɪᴠᴅ Cᴀsᴇs
+
+
+11. Cᴀɴ Gɪᴠᴇ ᴜ Cʀɪᴄᴋᴇᴛ Sᴄᴏʀᴇs (Cʀᴇᴅɪᴛs Gɪᴠᴇɴ Iɴ Pʟᴜɢɪɴs)
+
+
+12. Aɴᴅ Iғ Yᴏᴜ Aʀᴇ Gᴏɪɴɴ Tᴏ Sʟᴇᴇᴘ Dᴏ ```.ɴɪɢʜᴛ``` Tʜᴇ Bᴏᴛ WIʟʟ Aᴜᴛᴏ Rᴇᴘʟʏ Mᴇssᴀɢᴇs Wɪᴛʜ A Gᴏᴏᴅ Nɪɢʜᴛ Mᴇssᴀɢᴇ ( Sᴏᴍᴇ Tʜɪɴɢ Lɪᴋᴇ Aғᴋ Bᴜᴛ Dɪғғᴇʀᴇɴᴛ)
+
+
+13. Aғᴋ Fᴇᴀᴛᴜʀᴇ Wʜᴇɴ Yᴏᴜ Aʀᴇ Gᴏɪɴ Oғғʟɪɴᴇ
+
+
+14. Aɴᴅ Iғ Yᴏᴜ Aʀᴇ Gᴏɪɴɴ Fᴏʀ Sᴛᴜᴅʏ  Dᴏ ```.sᴛᴜᴅʏ``` Tʜᴇ Bᴏᴛ WIʟʟ Aᴜᴛᴏ Rᴇᴘʟʏ Mᴇssᴀɢᴇs Wɪᴛʜ A Gᴏᴏᴅ Sᴛᴜᴅʏ Mᴇssᴀɢᴇ ( Sᴏᴍᴇ Tʜɪɴɢ Lɪᴋᴇ Aғᴋ Bᴜᴛ Dɪғғᴇʀᴇɴᴛ)
+
+
+15. Aɴᴅ 5 ᴛʏᴘᴇs Oғ Hᴀᴄᴋ CMDs
+
+
+16. Aɴᴅ Mᴀɴʏ Mᴏʀᴇ CMDS..
 
 
 ## Note-: 
 
-This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.......
+Tʜɪs ɪs ᴀ ᴜsᴇʀʙᴏᴛ ᴍᴀᴅᴇ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ. I ᴍᴀᴅᴇ ᴛʜɪs ᴜsᴇʀʙᴏᴛ ᴡɪᴛʜ ʜᴇʟᴘ ᴏғ ᴀʟʟ ᴏᴛʜᴇʀ ᴜsᴇʀʙᴏᴛs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ. Aʟʟ ᴄʀᴇᴅɪᴛs ɢᴏᴇs ᴛᴏ ɪᴛs Rᴇsᴘᴇᴄᴛɪᴠᴇ Oᴡɴᴇʀs.......
 
 # Requirements 
 * Python 3.8 or Higher
 * Telegram [API Keys](https://my.telegram.org/apps)
-* String [Gernate from here](https://repl.it/@Anmol10H/Lightning-Repl#main.py)
+* String [Gernate from here](https://repl.it/@JassManak1125/Kakashi-UserBot#main.py)
 
 
-# How To
+# Dᴇᴘʟᴏʏ
 
-<a href="https://youtu.be/xfHcm_e92eQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
-
-<a href="https://app.gitbook.com/@poxsisofficial/s/blackBlack Lightning /"><img src="https://img.shields.io/badge/Read%20More-GitBook-red.svg"></a>
-
-# Deploy
-
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KeinShin/Black-Lightning)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ProBoy-X/Kakashi-UserBot)
 
 # String
 
-[![Run on Repl.it](https://repl.it/badge/github/KeinShin/Black-Lightning&theme=midnight-purple)](https://replit.com/@Paramatin/Lightning-Repl#main.py
+[![Run on Repl.it](https://repl.it/badge/github/ProBoy-X/Kakashi-UserBot&theme=midnight-purple)](https://repl.it/@JassManak1125/Kakashi-UserBot
 )
+
+
+
 
 # The Normal Way
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github/KeinShin/Black-Lightning.git
-cd Black Lightning 
+git clone https://ProBoy-X/Kakashi-UserBot.git
+cd Kakashi UserBot 
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
 # <Create local_config.py with variables as given below>
-python3 -m Black-Lightning
+python3 -m Kakashi-UserBot
 ```
 
 
@@ -123,5 +124,5 @@ python3 -m Black-Lightning
     [-] APP_ID:   You can get this value from https://my.telegram.org
     [-] API_HASH :   You can get this value from https://my.telegram.org
     
-[+] The Lightning Bot will not work without setting the mandatory vars.
+[+] The Kakashi UserBot will not work without setting the mandatory vars.
 ```
