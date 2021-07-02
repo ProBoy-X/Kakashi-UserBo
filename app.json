@@ -1,7 +1,7 @@
 {
-  "name": "Black Lightning - UserBot",
-  "description": "An advanced Telethon Userbot, from @keinshin",
-  "logo": "https://telegra.ph/file/d8d194c18562472a7c1f1.jpg",
+  "name": "Kakashi - UserBot",
+  "description": "An advanced Telethon Userbot, by @Its_JassManak",
+  "logo": "https://telegra.ph/file/ac9a5c9419c9013663d62.jpg",
   "keywords": [
    "telegram",
    "userbot",
@@ -9,9 +9,9 @@
    "modular",
    "productivity"
   ],
-  "repository": "https://github.com/KeinShin/Black-Lightning",
-  "website": "https://github.com/KeinShin/Black-Lightning",
-  "success_url": "https://t.me/blacklightningot",
+  "repository": "https://github.com/ProBoy-X/Kakashi-UserBot",
+  "website": "https://github.com/ProBoy-X/Kakashi-UserBot",
+  "success_url": "https://t.me/Kakashi_Support",
   "stack": "container",
   "env": {
    "ENV": {
@@ -32,7 +32,7 @@
     "value": ""
    },
    "STRING_SESSION": {
-    "description": "Get this value by running python3 telesetup.py locally or https://repl.it/@Anmol10H/Lightning-Userbot#main.py online.",
+    "description": "Get this value by running python3 telesetup.py locally or https://repl.it/@JassManak1125/Kakashi-UserBot#main.py online.",
     "value": ""
    },  
    "CUSTOM_PMPERMIT": {
@@ -49,7 +49,7 @@
     "value": ".",
     "required": false
    },
-    "LIGHTNING_ALV_IMG": {
+    "ALV_IMG": {
     "description": "To add another Alive pic, Leave blank for default. ",
     "value": "",
     "required": false
@@ -89,7 +89,7 @@
    },  
     "ALIVE_MSG": {
       "description": "Set Custom awake Message When entering .awake command.",
-      "value": "Heyy There `Lightning Master` Am Alive till you turn me off manually or my Dynos get over. ",
+      "value": "Heyyoo.. I Am Alive till you turn me off manually or my Dynos get over. ",
       "required": false
     },
     "CHROME_BIN": {
