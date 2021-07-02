@@ -13,7 +13,7 @@ from telethon.tl.types import (
 PP_TOO_SMOL = "`The image is too small`"
 PP_ERROR = "`Failure while processing the image`"
 NO_ADMIN = "`I am not an admin nub nibba!`"
-NO_PERM = "`I don't have sufficient permissions! This is so sed. Alexa play Tera Tau Aaya`\nIdiot If Im not a admin then how could i play ?"
+NO_PERM = "`Sed..I don't have sufficient permissions! Gib permission otherwise leabing this group.!!"
 NO_SQL = "`Running on Non-SQL mode!`"
 
 CHAT_PP_CHANGED = "`Chat Picture Changed`"
@@ -159,15 +159,15 @@ async def promote(event):
     )
     user, rank = await get_user_from_event(event)
     if not rank:
-        rank = "mememaster"  # Just in case.
-    if user:
+     rank = "AdMemee"  # Just in case.
+  if user:
         pass
     else:
         return
     # Try to promote if current user is admin or creator
     try:
         await event.client(EditAdminRequest(event.chat_id, user.id, new_rights, rank))
-        await event.reply("`Promoted Successfully! Now gib Party`")
+        await event.reply("`Promoted Successfully! Now gib Party🥳🥳`")
 
     # If Telethon spit BadRequestError, assume
     # we don't have Promote permission
