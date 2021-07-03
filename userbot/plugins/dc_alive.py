@@ -24,19 +24,19 @@ global ghanti
 ghanti = borg.uid
 edit_time = 5
 """ =======================CONSTANTS====================== """
-file1 = "https://telegra.ph/file/63abc60224dc567e3d441.jpg"
-file2 = "https://telegra.ph/file/daab59e1648754652576b.jpg"
-file3 = "https://telegra.ph/file/181bac8d3ad0c505306af.jpg"
-file4 = "https://telegra.ph/file/181bac8d3ad0c505306af.jpg"
+file1 = "https://telegra.ph/file/8e158f3cccac5ee2eeece.jpg"
+file2 = "https://telegra.ph/file/0917241d44b49737b0189.jpg"
+file3 = "https://telegra.ph/file/784150ba339df72b89728.jpg"
+file4 = "https://telegra.ph/file/b76c2463d11eed3a6f097.jpg"
 """ =======================CONSTANTS====================== """
-pm_caption = "** 𝔅𝔩𝔞𝔠𝔨 𝔏𝔦𝔤𝔥𝔱𝔫𝔦𝔫𝔤 𝙸𝚂 🅾🅽🅻🅸🅽🅴**\n\n"
+pm_caption = "** Kᴀᴋᴀsʜɪ UsᴇʀBᴏᴛ ɪs 🅾🅽🅻🅸🅽🅴**\n\n"
 
-pm_caption += "✘ About My System ✘\n\n"
-pm_caption += "➾ **`ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ`** ☞ 1.17.5\n"
-pm_caption += "➾ **`ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ`** ☞ [ᴊᴏɪɴ](https://t.me/blacklightningot)\n"
-pm_caption += "➾ **`ʟɪᴄᴇɴꜱᴇ`**  ☞ [𝔅𝔩𝔞𝔠𝔨 𝔏𝔦𝔤𝔥𝔱𝔫𝔦𝔫𝔤](https://github.com/KeinShin)\n"
-pm_caption += "➾ **`ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ`** ☞ [𝔅𝔩𝔞𝔠𝔨 𝔏𝔦𝔤𝔥𝔱𝔫𝔦𝔫𝔤](https://github.com/KeinShin/Black-Lightning)\n\n"
-pm_caption += "➾ **Spammer Go Away Im His Assitant"
+pm_caption += "✘ Aʙᴏᴜᴛ ᴍʏ sʏsᴛᴇᴍ ✘\n\n"
+pm_caption += "➾ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ** ☞ `1.17.5`\n"
+pm_caption += "➾ **ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ** ☞ [Kᴀᴋᴀsʜɪ](https://t.me/kakashi_support_official)\n"
+pm_caption += "➾ **ʟɪᴄᴇɴꜱᴇ**  ☞ [Kᴀᴋᴀsʜɪ Uʙ](https://github.com/ProBoy-X)\n"
+pm_caption += "➾ **`ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ`** ☞ [PʀᴏBᴏʏ-X](https://github.com/ProBoy-X/Kakashi-UserBot)\n\n"
+pm_caption += "➾ **Sᴘᴀᴍᴍᴇʀ ɢᴏ ᴀᴡᴀʏ ɪ'ᴍ ʜɪs ᴀssɪsᴛᴀɴᴛ"
 pm_caption += f"➾ **ᴍʏ ᴍᴀsᴛᴇʀ** ☞ [{DEFAULTUSER}](tg://user?id={ghanti})\n"
 
 
