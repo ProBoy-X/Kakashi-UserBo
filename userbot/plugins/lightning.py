@@ -8,9 +8,9 @@ import asyncio
 from userbot.utils import lightning_cmd
 
 from userbot import CMD_HELP
-@borg.on(lightning_cmd(pattern=r"lightning"))
+@borg.on(lightning_cmd(pattern=r"kakashi"))
 async def hapy(event):
 
 
-     a="ㅤㅤ  █\n         █\n        █\n       █\n      █░░░░░░█\n                        █\n                        █\n                       █\n                     █\n\n`⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️\nBLACK LIGHTNING IS OP⚡️\n_______________________________`"
+     a="ㅤㅤ  █\n         █\n        █\n       █\n      █░░░░░░█\n                        █\n                        █\n                       █\n                     █\n\n`⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️\nKAKASHI USERBOT IS OP⚡️\n_______________________________`"
      await event.edit(a)
