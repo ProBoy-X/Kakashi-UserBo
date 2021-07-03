@@ -23,16 +23,7 @@ from userbot.Config import Var
 from userbot.utils import *
 
 KANGING_STR = [
-    "Using Witchery to kang this sticker...",
-    "Plagiarising hehe...",
-    "Inviting this sticker over to my pack...",
-    "Kanging this sticker...",
-    "Hey that's a nice sticker!\nMind if I kang?!..",
-    "hehe me stel ur stikér\nhehe.",
-    "Ay look over there (☉｡☉)!→\nWhile I kang this...",
-    "Roses are red violets are blue, kanging this sticker so my pacc looks cool",
-    "Imprisoning this sticker...",
-    "Mr.Steal Your Sticker is stealing this sticker... ",
+    "Oʏᴇᴇ ᴊᴀʀᴀᴀ ᴜᴅʜᴀʀ ᴅᴇᴋʜɴᴀᴀ ᴛᴏᴏ... ᴍᴜᴊʜᴇ ʙᴅɪʏᴀ sᴛɪᴄᴋᴇʀ ᴍɪʟ ɢᴀʏᴀ ᴀʙʜɪ ɪssᴇ ᴋᴀɴɢ ᴋʀᴛᴀ ʜᴜ..😁",
 ]
 
 lightning = Var.CUSTOM_STICKER_PACK_NAME
@@ -262,8 +253,8 @@ async def kang(args):
                 await bot.send_read_acknowledge(conv.chat_id)
 
         await args.edit(
-            f"`Sticker kanged successfully!`\
-            \nPack can be found [here](t.me/addstickers/{packname})",
+            f"`😁😁Cʜᴜʀᴀ ʟɪʏᴀ sᴛɪᴄᴋᴇʀ..`\
+            \nᴊʟᴅɪ sᴇ ᴀᴅᴅ ᴋʀʟᴏ [ɪssᴇ](t.me/addstickers/{packname})..",
             parse_mode="md",
         )
 
