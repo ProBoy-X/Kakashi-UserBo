@@ -55,13 +55,13 @@ pm_caption += "➥ **Dᴀᴛᴀʙᴀsᴇ Sᴛᴀᴛᴜs** »» `Functional`\n"
 pm_caption += "➥ **Cᴜʀʀᴇɴᴛ Bʀᴀɴᴄʜ** »» `master`\n"
 pm_caption += f"➥ **Vᴇʀsɪᴏɴ** »» `{currentversion}`\n"
 pm_caption += f"➥ **Mʏ Mᴀsᴛᴇʀ** :»» {DEFAULTUSER} \n"
-pm_caption += "➥ **Lɪᴄᴇɴsᴇ** :»» [Kᴀᴋᴀsʜɪ UB](https://github.com/KeinShin/Black-Lightning/master/LICENSE)\n"
+pm_caption += "➥ **Lɪᴄᴇɴsᴇ** :»» [Kᴀᴋᴀsʜɪ UB](https://github.com/ProBoy-X/Kakashi-UserBot/master/LICENSE)\n"
 pm_caption += "➥ **Cᴏᴘʏʀɪɢʜᴛ** :»» [PʀᴏBᴏʏ-X](GitHub.com/ProBoy-X)\n"
 
 
 
 
-@borg.on(kakashi_cmd(pattern=r"falive"))
+@borg.on(lightning_cmd(pattern=r"falive"))
 @borg.on(sudo_cmd(pattern=r"falive", allow_sudo=True))
 async def friday(falive):
     await falive.get_chat()
