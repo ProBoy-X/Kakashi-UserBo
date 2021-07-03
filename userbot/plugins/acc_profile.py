@@ -19,7 +19,7 @@ async def _(event):
         await borg(
             functions.account.UpdateProfileRequest(about=bio)  # pylint:disable=E0602
         )
-        await event.edit("Succesfully changed my profile bio")
+        await event.edit("Cʜᴀɴɢᴇᴅ ʏᴏᴜʀ ʙɪᴏ sᴜᴄᴇᴇsғᴜʟʟʏ ᴍʏ ᴍᴀsᴛᴇʀ")
     except Exception as e:  # pylint:disable=C0103,W0703
         await event.edit(str(e))
 
@@ -39,7 +39,7 @@ async def _(event):
                 first_name=first_name, last_name=last_name
             )
         )
-        await event.edit("My name was changed successfully")
+        await event.edit("Sᴜᴄᴄᴇssғᴜʟʟʏ ᴄʜᴀɴɢᴇᴅ ʏᴏᴜʀ ɴᴀᴍᴇ..")
     except Exception as e:  # pylint:disable=C0103,W0703
         await event.edit(str(e))
 
@@ -72,7 +72,7 @@ async def _(event):
             except Exception as e:  # pylint:disable=C0103,W0703
                 await event.edit(str(e))
             else:
-                await event.edit("My profile picture was succesfully changed")
+                await event.edit("Sᴜᴄᴄᴇᴅ ɪɴ ᴄʜᴀɴɢɪɴɢ ʏᴏᴜʀ ᴘʀᴏғɪʟᴇ ᴘɪᴄ.😉")
     try:
         os.remove(photo)
     except Exception as e:  # pylint:disable=C0103,W0703
