@@ -15,7 +15,7 @@ from userbot.utils import load_assistant, load_module, start_assistant
 TELE = Var.PRIVATE_GROUP_ID
 BOTNAME = Var.TG_BOT_USER_NAME_BF_HER
 LOAD_MYBOT = Var.LOAD_MYBOT
-sed = logging.getLogger("Black Lightning")
+sed = logging.getLogger("Kakashi UserBot")
 
 
 async def add_bot(bot_token):
@@ -28,7 +28,7 @@ async def startup_log_all_done():
     try:
         await bot.send_message(
             TELE,
-            f"**Black Lightning has been deployed.\nSend** `{CMD_HNDLR}alive` **to see if the bot is working.\n\nAdd** @{BOTNAME} **to this group and make it admin for enabling all the features of userbot**",
+            f"**Your Kakashi UserBot has been deployed.\nSend** `{CMD_HNDLR}alive` **to see if the bot is working.\n\nAdd** @{BOTNAME} **to this group and make it admin for enabling all the features of userbot**",
         )
     except BaseException:
         print("Either PRIVATE_GROUP_ID is wrong or you have left the group.")
@@ -62,9 +62,9 @@ for name in files:
          load_module(shortname.replace(".py", ""))
         except Exception:
             pass
-print("Lightning has been deployed! ")
+print("Kakashi UserBot has been deployed! ")
 
-print("Setting up Lightning")
+print("Setting up Kakashi UserBot")
 
 
 if Config.ENABLE_ASSISTANTBOT == "ENABLE":
@@ -80,10 +80,10 @@ if Config.ENABLE_ASSISTANTBOT == "ENABLE":
              load_assistant(shortname.replace(".py", ""))
             except Exception:
                 pass
-    sed.info("Black Lightning  Bot Have Been Installed Successfully !")
+    sed.info("Kakashi UserBot Have Been Installed Successfully !")
 else:
-    sed.info("Black Lightning Has Been Installed Sucessfully !")
-    sed.info("You Can Visit @lightning_support For Any Support Or Doubts")
+    sed.info("Kakashi UserBot Has Been Installed Sucessfully !")
+    sed.info("You Can Visit @Kakashi_Support For Any Support Or Doubts")
 
 if len(argv) not in (1, 3, 4):
     bot.disconnect()
