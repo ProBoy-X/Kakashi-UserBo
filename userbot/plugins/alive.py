@@ -125,8 +125,8 @@ async def amireallyalive(salive):
             "Pʏᴛʜᴏɴ          »» 3.9.0\n"
             "Sᴜᴘᴘᴏʀᴛ Cʜᴀɴɴᴇʟ »» [Kᴀᴋᴀsʜɪ Uʙ](https://t.me/Kakashi_Support_Official)\n"
             "Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ   »» [Kᴀᴋᴀsʜɪ Uʙ](https://t.me/kakashi_Support)\n"
-            "𝘓𝘐𝘚𝘌𝘕𝘊𝘌         »» [PʀᴏBᴏʏ-X](https://github.com/ProBoy-X)\n"
-            "𝘾𝙊𝙋𝙔𝙍𝙄𝙂𝙃𝙏 𝘽𝙔  »» [PʀᴏBᴏʏ-X](https://github.com/ProBoy-X)",
+            "Lɪᴄᴇɴᴄᴇ         »» [PʀᴏBᴏʏ-X](https://github.com/ProBoy-X)\n"
+            "Cᴏᴘʏʀɪɢʜᴛ Bʏ    »» [PʀᴏBᴏʏ-X](https://github.com/ProBoy-X)",
             link_preview=False,
         )
         await salive.delete()
@@ -146,23 +146,22 @@ else:
 kraken = bot.uid
 
 
-pm_caption = "__**🔥🔥🔥🔥**__\n\n"
+pm_caption = "__**🔥🔥ӄǟӄǟֆɦɨ ʊֆɛʀɮօȶ ɨֆ օռʟɨռɛ🔥🔥**__\n\n"
 
-pm_caption += (
-    f"               __↼🄼🄰🅂🅃🄴🅁⇀__\n**『[{DEFAULTUSER}](tg://user?id={kraken})』**\n\n"
-)
+pm_caption += f" ↼🄼🄰🅂🅃🄴🅁⇀\n**『[{DEFAULTUSER}](tg://user?id={kraken})』**\n\n"
+
 
 pm_caption += "🛡️TELETHON🛡️ : `1.15.0` \n"
 
-pm_caption += f"😈ɮʟǟƈӄ ʟɨɢɦȶռɨռɢ😈       : __**{hellversion}**__\n"
+pm_caption += f"😈ӄǟӄǟֆɦɨ ʊֆɛʀɮօȶ😈       : __**{hellversion}**__\n"
 
 pm_caption += f"⚜️Sudo⚜️            : `{sudou}`\n"
 
-pm_caption += "⚠️CHANNEL⚠️   : [ᴊᴏɪɴ](https://t.me/lightning_support_group)\n"
+pm_caption += "⚠️CHANNEL⚠️   : [ᴊᴏɪɴ](https://t.me/kakashi_support_official)\n"
 
-pm_caption += "🔥CREATOR🔥    : [Nub Here](https://t.me/krish1303y)\n\n"
+pm_caption += "🔥CREATOR🔥    : [Nub Here](https://t.me/Its_JassManak)\n\n"
 
-pm_caption += "    [✨REPO✨](https://github.com/KeinShin/Black-Lightningt) 🔹 [📜License📜](https://github.com/KeinShin/Black-Lightning/blob/master/LICENSE)"
+pm_caption += "    [✨REPO✨](https://github.com/ProBoy-X/Kakashi-UserBot) 🔹 [📜License📜](https://github.com/ProBoy-X/Kakashi-UserBot/blob/master/LICENSE)"
 
 
 @borg.on(lightning_cmd(outgoing=True, pattern="halive$"))
