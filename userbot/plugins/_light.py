@@ -38,7 +38,7 @@ async def cmd_list(event):
                     string += "\n"
                 await event.edit(string)
             else:
-                await event.edit("`Wait Checking..`")
+                await event.edit("`ᴡᴀɪᴛ ʟᴇᴍᴍᴇ ᴄʜᴇᴄᴋ..`")
                 await asyncio.sleep(2)
                 await event.edit(input_str + "  ☹️ is not a valid plugin!☹️")
         else:
