@@ -39,7 +39,7 @@ PP_TOO_SMOL = "`The image is too small`"
 PP_ERROR = "`Failure while processing the image`"
 NO_ADMIN = "`Im Not An Admin Here Niiba Say Stfu to the person who you wanna mute`"
 NO_PERM = (
-    "`I don't have sufficient permissions! This is so sed. Alexa play Tera Baap Aaya`"
+    "`Sᴇᴅ.. ɪ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ sᴜғғɪᴄɪᴇɴᴛ ʀɪɢʜᴛs.. ᴏᴡɴᴇʀ ɢɪʙ ᴍᴇ ʀɪɢʜᴛ ᴇʟsᴇ ʟᴇᴀʙɪɴɢ ɢʀᴏᴜᴘ.!!`"
 )
 NO_SQL = "`Running on Non-SQL mode!`"
 
@@ -150,7 +150,7 @@ async def promote(promt):
     await promt.edit("`Promoting...`")
     user, rank = await get_user_from_event(promt)
     if not rank:
-        rank = "Black Lightning"  # Just in case.
+        rank = "ₚₑₑᵣₒₒ"  # Just in case.
     if user:
         pass
     else:
@@ -159,7 +159,7 @@ async def promote(promt):
     # Try to promote if current user is admin or creator
     try:
         await promt.client(EditAdminRequest(promt.chat_id, user.id, new_rights, rank))
-        await promt.edit("`Promoted Successfully!Admins gib a blunder arrived`")
+        await promt.edit("`Sᴜᴄᴄᴇssғᴜʟʟʏ ᴘʀᴏᴍᴏᴛᴇᴅ!🥳 ɴᴀᴀᴄʜᴏᴏᴏ sᴀʙʙ..!!`")
 
     # If Telethon spit BadRequestError, assume
     # we don't have Promote permission
