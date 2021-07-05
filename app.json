@@ -89,7 +89,7 @@
    },  
     "ALIVE_MSG": {
       "description": "Set Custom awake Message When entering .awake command.",
-      "value": "Heyyoo.. I Am Alive till you turn me off manually or my Dynos get over. ",
+      "value": "Hᴏɪɪ!! ᴍᴇ ᴋᴀᴋᴀsʜɪ-ᴜsᴇʀʙᴏᴛ.. ᴛʏᴘᴇ .ʜᴇʟᴘ ᴛᴏ ᴋɴᴏᴡ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs..😉",
       "required": false
     },
     "CHROME_BIN": {
