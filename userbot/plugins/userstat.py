@@ -75,6 +75,7 @@ async def _(event):
     caption += f"**Banned in CAS:** {sbot} [?](http://cas.chat)\n"
     if sn:
         caption += f"**Reason:** `{sn}`\n\n"
+        caption +=              f"**By [Kakashi UserBot](https://github.com/ProBoy-X/Kakashi-UserBot)** `{sn}`\n\n"
     await tele.edit(caption)
 
 
