@@ -37,7 +37,7 @@
    },  
    "CUSTOM_PMPERMIT": {
     "description": "The message that appears when someone PM's you. Leave it as such for default message.",
-    "value": "Do not spam here, else you will be blocked automatically."
+    "value": "Dᴏɴ'ᴛ sᴘᴀᴍ ʜᴇʀᴇ.. ᴊᴜsᴛ ʟᴇᴀᴠᴇ 1 ᴏʀ 2 ᴍᴇssᴀɢᴇs ᴀɴᴅ ᴡᴀɪᴛ ғᴏʀ ᴍʏ sᴡᴇᴇᴛ ᴏᴡɴᴇʀ ᴛᴏ ʀᴇᴘʟʏ.."
    },  
    "GITHUB_ACCESS_TOKEN": {
     "description": "Your Github Access Token for gitcommit plugin.Google 'Github access token' to find.",
@@ -60,7 +60,7 @@
     "required": false
    },  
    "GIT_REPO_NAME": {
-    "description": "Your repo name Example: Anmol-dot284/Lightning, but GITHUB_ACCESS_TOKEN must be setup first.",
+    "description": "Your repo name Example: ProBoy-X/Kakashi-UserBot, but GITHUB_ACCESS_TOKEN must be setup first.",
     "value": "",
     "required": false
    },
