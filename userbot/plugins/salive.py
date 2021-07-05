@@ -38,20 +38,17 @@ def get_readable_time(seconds: int) -> str:
 uptime = get_readable_time((time.time() - Lastupdate))
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Unknown"
 PM_IMG = Var.ALIVE_IMAGE
-pm_caption = "➥ **𝔅𝔩𝔞𝔠𝔨 𝔏𝔦𝔤𝔥𝔱𝔫𝔦𝔫𝔤 IS:** `ONLINE`\n\n"
-pm_caption += "➥ **SYSTEMS STATS**\n"
-pm_caption += "➥ **Telethon Version:** `1.15.0` \n"
-pm_caption += "➥ **Python:** `3.7.4` \n"
-pm_caption += f"➥ **Uptime** : `{uptime}` \n"
-pm_caption += "➥ **Database Status:**  `Functional`\n"
-pm_caption += "➥ **Current Branch** : `master`\n"
-pm_caption += f"➥ **Version** : `{telever}`\n"
-pm_caption += f"➥ **My Boss** : {DEFAULTUSER} \n"
-pm_caption += "➥ **Heroku Database** : `AWS - Working Properly`\n\n"
-pm_caption += "➥ **License** : [GNU General Public License v3.0](https://github.com/Anmol-dot283/Black-Lightning)\n"
-pm_caption += "➥ **Copyright** : By [KeinShin@Github](GitHub.com/StarkGang)\n"
-pm_caption += "➥ **Check Stats By Doing** `.stat`. \n\n"
-pm_caption += "[🇮🇳 Deploy 𝔅𝔩𝔞𝔠𝔨 𝔏𝔦𝔤𝔥𝔱𝔫𝔦𝔫𝔤Userbot 🇮🇳](https://telegra.ph/FRIDAY-06-15)"
+pm_caption = "➥ **Kᴀᴋᴀsʜɪ Usᴇʀʙᴏᴛ ɪs** `ᴏɴʟɪɴᴇ`\n\n"
+pm_caption += "➥            **✘ Sʏsᴛᴇᴍ sᴛᴀᴛs ✘**\n"
+pm_caption += "➥ **Tᴇʟᴇᴛʜᴏɴ Vᴇʀsɪᴏɴ** »» `1.15.0` \n"
+pm_caption += "➥ **Pʏᴛʜᴏɴ Vᴇʀsɪᴏɴ** »» `3.7.4` \n"
+pm_caption += f"➥ **Pɪɴɢ** »» `Pᴏɴɢ:- {uptime}` \n"
+pm_caption += "➥ **Dᴀᴛᴀʙᴀsᴇ Sᴛᴀᴛᴜs** »» `Fᴜɴᴄᴛɪᴏɴᴀʟ`\n"
+pm_caption += f"➥ **Bᴏᴛ ᴠᴇʀsɪᴏɴ** »» `Uᴘ ᴛᴏ ᴅᴀᴛᴇ`\n"
+pm_caption += f"➥ **👑Oᴡɴᴇʀ👑** »» {DEFAULTUSER} \n"
+pm_caption += "➥ **Lɪᴄᴇɴsᴇ** »» [PʀᴏBᴏʏ-x](https://github.com/ProBoy-X/Kakashi-UserBot)\n"
+pm_caption += "➥ **Cᴏᴘʏʀɪɢʜᴛ** »» [PʀᴏBᴏʏ-x](GitHub.com/JassManak1125)\n"
+pm_caption +=           "Dᴇᴘʟᴏʏ ʏᴏᴜʀ ᴏᴡɴ [Kᴀᴋᴀsʜɪ Uʙ](https://github.com/ProBoy-X/Kakashi-UserBot)"
 
 
 @borg.on(lightning_cmd(pattern=r"fralive"))
