@@ -52,9 +52,9 @@ TG_CHANN = str(TG_CHANNEL) if TG_CHANNEL else "Not Yet😁😁"
 
 from userbot import CMD_LIST
 
-pm_caption = "**☠ Kᴀᴋᴀsʜɪ UsᴇʀBᴏᴛ ɪs Oɴʟɪɴᴇ ☠**\n\n"
-pm_caption =         "**⚡Wᴏʀᴋɪɴɢ ᴀs ɢᴏᴏᴅ ᴀs ɪ sʜᴀʟʟ..⚡**\n\n"
-pm_caption += f"• **♛ Oᴡɴᴇʀ ♛** »» {DEFAULTUSER}\n"
+pm_caption = "**♛ Kᴀᴋᴀsʜɪ UsᴇʀBᴏᴛ ɪs Oɴʟɪɴᴇ ♛**\n\n"
+pm_caption =         "**✘ Wᴏʀᴋɪɴɢ ᴀs ɢᴏᴏᴅ ᴀs ɪ sʜᴀʟʟ.. ✘**\n\n"
+pm_caption += f"• **👑 Oᴡɴᴇʀ 👑** »» {DEFAULTUSER}\n"
 pm_caption += "• **`Vᴇʀsɪᴏɴ`**  »»  `1.17.5`\n"
 pm_caption += "• **`Sᴜᴅᴏ`**    »»  `ᴛʀᴜᴇ`  
 pm_caption += "• **`Sᴜᴘᴘᴏʀᴛ Cʜᴀɴɴᴇʟ`**  »» [Kᴀᴋᴀsʜɪ Uʙ](https://t.me/Kakashi_Support_Official)\n"
