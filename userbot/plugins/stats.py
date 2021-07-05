@@ -36,12 +36,19 @@ async def _(event):
     end = datetime.now()
     ms = (end - start).seconds
     await event.edit(
-        """`Your Stats Obtained in {} seconds`
-`You have {} Private Messages`
-`You are in {} Groups`
-`You are in {} Super Groups`
-`You Are in {} Channels`
-`And finally Bots = {}`""".format(
+        """
+`✪ Pʀɪᴠᴀᴛᴇ Mᴇssᴀɢᴇs ➣ {}`
+`✪ Gʀᴏᴜᴘs ➣ {}`
+`✪ Aᴅᴍɪɴ ɪɴ ɢʀᴏᴜᴘs ➣ {} `
+`✪ Cʀᴇᴀᴛᴏʀ ➣ {}`
+
+`✪ Cʜᴀɴɴᴇʟs ➣ {} `
+`✪ Aᴅᴍɪɴ ɪɴ Cʜᴀɴɴᴇʟs ➣ {}`
+`✪ Cʀᴇᴀᴛᴏʀ ➣ {}
+
+`✪ Uɴʀᴇᴀᴅ ᴍᴇssᴀɢᴇs ➣ {}`
+`✪ Uɴʀᴇᴀᴅ ᴛᴀɢs ➣ {}`
+` Sᴛᴀᴛs ᴏʙᴛᴀɪɴᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs ʙʏ [ᴋᴀᴋᴀsʜɪ-ᴜsᴇʀʙᴏᴛ](https://github.com/ProBoy-X/Kakashi-UserBot) ` """.format(
             ms, u, g, c, bc, b
         )
     )
