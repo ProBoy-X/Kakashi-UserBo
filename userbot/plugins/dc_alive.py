@@ -12,7 +12,7 @@ ALIVE_MSG = Config.ALIVE_MSG or "✮ MY BOT IS RUNNING SUCCESFULLY ✮"
 EMOJI = Config.CUSTOM_ALIVE_EMOJI or "  ✥ "
 
 # 🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "𝔅𝔩𝔞𝔠𝔨 𝔏𝔦𝔤𝔥𝔱𝔫𝔦𝔫𝔤"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Kᴀᴋᴀsʜɪ UsᴇʀBᴏᴛ"
 ALIVE_PHOTTO = os.environ.get("ALIVE_PHOTTO", None)
 
 # Thanks to Sipak bro and Raganork..
@@ -33,11 +33,11 @@ pm_caption = "** Kᴀᴋᴀsʜɪ UsᴇʀBᴏᴛ ɪs 🅾🅽🅻🅸🅽🅴**\n
 
 pm_caption += "✘ Aʙᴏᴜᴛ ᴍʏ sʏsᴛᴇᴍ ✘\n\n"
 pm_caption += "➾ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ** ☞ `1.17.5`\n"
-pm_caption += "➾ **ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ** ☞ [Kᴀᴋᴀsʜɪ](https://t.me/kakashi_support_official)\n"
+pm_caption += "➾ **ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ** ☞ [Kᴀᴋᴀsʜɪ ꜱᴜᴘᴘᴏʀᴛ](https://t.me/kakashi_support_official)\n"
 pm_caption += "➾ **ʟɪᴄᴇɴꜱᴇ**  ☞ [Kᴀᴋᴀsʜɪ Uʙ](https://github.com/ProBoy-X)\n"
 pm_caption += "➾ **`ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ`** ☞ [PʀᴏBᴏʏ-X](https://github.com/ProBoy-X/Kakashi-UserBot)\n\n"
 pm_caption += "➾ **Sᴘᴀᴍᴍᴇʀ ɢᴏ ᴀᴡᴀʏ ɪ'ᴍ ʜɪs ᴀssɪsᴛᴀɴᴛ"
-pm_caption += f"➾ **ᴍʏ ᴍᴀsᴛᴇʀ** ☞ [{DEFAULTUSER}](tg://user?id={ghanti})\n"
+pm_caption += f"➾ **👑Oᴡɴᴇʀ👑** ☞ [{DEFAULTUSER}](tg://user?id={ghanti})\n"
 
 
 @borg.on(lightning_cmd(pattern=r"dalive"))
