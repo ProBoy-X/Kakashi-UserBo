@@ -24,7 +24,7 @@ import userbot.plugins.sql_helper.pmpermit_sql as lightning_sql
 from userbot import ALIVE_NAME, bot
 from userbot.thunderconfig import Config
 from var import Var
-LIGHTNINGUSER = str(ALIVE_NAME) if ALIVE_NAME else "Userbot"
+LIGHTNINGUSER = str(ALIVE_NAME) if ALIVE_NAME else "Kakashi Userbot"
 from userbot.utils import lightning_cmd
 
 LIGHTNING_WRN = {}
@@ -43,16 +43,16 @@ if LIGHTNING_PM is None:
     CUSTOM_LIGHTNING_PM_PIC = "https://telegra.ph/file/15925d31e28ba6b80303a.jpg"
 else:
     CUSTOM_LIGHTNING_PM_PIC = LIGHTNING_PM
-FUCK_OFF_WARN = f"**Blocked You As You Spammed {LIGHTNINGUSER}'s DM\n\n **IDC**"
+FUCK_OFF_WARN = f"**Sᴏ ʏᴏᴜ ᴀʀᴇ ʙʟᴏᴄᴋᴇᴅ ᴀs ʏᴏᴜ sᴘᴀᴍᴍᴇᴅ ᴀ ʟᴏᴛ ɪɴ ᴍʏ Oᴡɴᴇʀ 👑 {LIGHTNINGUSER}'s 👑 ᴅᴍ..\n\n**"
 
 
 
 
 OVER_POWER_WARN = (
-    f"**Hello Sir Im Here To Protect {LIGHTNINGUSER} Dont Under Estimate Me 😂😂  **\n\n"
-    f"`My Master {LIGHTNINGUSER} is Busy Right Now !` \n"
-    f"{LIGHTNINGUSER} Is Very Busy Why Came Please Lemme Know Choose Your Deasired Reason"
-    f"**Btw Dont Spam Or Get Banned** 😂😂 \n\n"
+    f"`Hɪʏᴏᴏ..!! ɪ'ᴍ ᴋᴀᴋᴀsʜɪ ᴜsᴇʀʙᴏᴛ ᴘᴍ ᴘʀᴏᴛᴇᴄᴛᴏʀ ғᴏʀ ᴍʏ sᴡᴇᴇᴛ ᴏᴡɴᴇʀ ♛ {LIGHTNINGUSER} ♛  sᴏᴏ ʙᴇᴛᴛᴇʀ ᴅᴏɴ'ᴛ sᴘᴀᴍ ʜᴇʀᴇ ᴊᴜsᴛ ʟᴇᴀᴠᴇ 1-2 ᴍᴇssᴀɢᴇs ʜᴇʀᴇ.. `\n\n"
+    f"`Mʏ sᴡᴇᴇᴛ ᴏᴡɴᴇʀ ɪs ʙᴜsʏ ʀɪɢʜᴛ ɴᴏᴡ..` \n"
+    f"`{LIGHTNINGUSER} ɪs ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ʀɪɢʜᴛ ɴᴏᴡ.. ᴄʜᴏᴏsᴇ ᴛʜᴇ ʀᴇᴀsᴏɴ ᴡʜʏ ʏᴏᴜ ᴄᴀᴍᴇ ʜᴇʀᴇ..`\n\n"
+    f"`ʙᴛᴡ ᴅᴏɴ'ᴛ ᴅᴀʀᴇ ᴛᴏ sᴘᴀᴍ ʜᴇʀᴇ..ɪ'ʟʟ ʙʟᴏᴄᴋ ʏᴏᴜ ᴀɴᴅ sᴇɴᴅ ʏᴏᴜʀ ᴄᴏᴍᴘʟᴀɪɴᴛ ᴛᴏ ᴍʏ ʟᴏᴠᴇʟʏ ᴏᴡɴᴇʀ..` \n\n"
     f"**{CUSTOM_LIGHTNING_PM_PIC}**\n"
 )
 
@@ -88,9 +88,9 @@ if Var.PRIVATE_GROUP_ID is not None:
                 if chats.id in LIGHTNING_REVL_MSG:
                     await LIGHTNING_REVL_MSG[chats.id].delete()
                     del LIGHTNING_REVL_MSG[chats.id]
-                lightning_sql.approve(chats.id, f"Wow lucky You {LIGHTNINGUSER} Approved You")
+                lightning_sql.approve(chats.id, f"Wᴇᴇᴡ {LIGHTNINGUSER} ᴀᴘᴘʀᴏᴠᴇᴅ ʏᴏᴜ ғᴏʀ ᴘᴍ.")
                 await event.edit(
-                    "Approved to pm [{}](tg://user?id={})".format(firstname, chats.id)
+                    "Aᴘᴘʀᴏᴠᴇᴅ ᴛᴏ ᴘᴍ [{}](tg://user?id={})".format(firstname, chats.id)
                 )
                 await asyncio.sleep(3)
                 await event.delete()
@@ -135,11 +135,11 @@ if Var.PRIVATE_GROUP_ID is not None:
         if event.fwd_from:
             return
         approved_users = lightning_sql.get_all_approved()
-        PM_VIA_LIGHT = f"♥‿♥ {LIGHTNINGUSER} Approved PMs\n"
+        PM_VIA_LIGHT = f" ♥‿♥{LIGHTNINGUSER} Approved PMs\n"
         if len(approved_users) > 0:
             for a_user in approved_users:
                 if a_user.reason:
-                    PM_VIA_LIGHT += f"♥‿♥ [{a_user.chat_id}](tg://user?id={a_user.chat_id}) for {a_user.reason}\n"
+                    PM_VIA_LIGHT += ⁪⁬⁮⁮⁮⁮ f" ♥‿♥[{a_user.chat_id}](tg://user?id={a_user.chat_id}) for {a_user.reason}\n"
                 else:
                     PM_VIA_LIGHT += (
                         f"♥‿♥ [{a_user.chat_id}](tg://user?id={a_user.chat_id})\n"
@@ -209,7 +209,7 @@ if Var.PRIVATE_GROUP_ID is not None:
                 await LIGHTNING_REVL_MSG[chat_ids].delete()
             LIGHTNING_REVL_MSG[chat_ids] = lemme
             lightn_msg = ""
-            lightn_msg += "#Some Retards 😑\n\n"
+            lightn_msg += "#Some Retards -_-\n\n"
             lightn_msg += f"[User](tg://user?id={chat_ids}): {chat_ids}\n"
             lightn_msg += f"Message Counts: {LIGHTNING_WRN[chat_ids]}\n"
             # lightn_msg += f"Media: {message_media}"
