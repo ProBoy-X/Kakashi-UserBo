@@ -82,14 +82,9 @@ async def help(event):
             event.chat_id,
             message="You Can Deploy Your Kakashi UserBot In Heroku By Following Steps Bellow, You Can See Some Quick Guides On Support Channel Or On Your Own Assistant Bot. \nThank You For Contacting Me.",
             buttons=[
-                [
-                    Button.url(
-                        "Deploy Tutorial 📺",
-                        "https://www.youtube.com/watch?v=GfZMqrCAqxI",
-                    )
-                ],
-                [Button.url("Need Help ❓", "https://t.me/Kakashi_support")],
-                [Button.url("Creator💫", "https://t.me/Its_JassManak")],
+                [Button.url("📺 Dᴇᴘʟᴏʏ Tᴜᴛᴏʀɪᴀʟ 📺", "https://t.me/Kakashi_Support")],
+                [Button.url("❓ Gᴇᴛ Hᴇʟᴘ ❓", "https://t.me/Kakashi_Support")],
+                [Button.url("💫 Creator 💫", "https://t.me/Its_JassManak")],
             ],
         )
 
