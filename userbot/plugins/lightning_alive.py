@@ -52,11 +52,14 @@ TG_CHANN = str(TG_CHANNEL) if TG_CHANNEL else "Not Yet😁😁"
 
 from userbot import CMD_LIST
 
-pm_caption = "**Kᴀᴋᴀsʜɪ UsᴇʀBᴏᴛ ɪs Oɴʟɪɴᴇ**\n\n"
-pm_caption += f"• **Mʏ ᴘᴇʀᴏᴏ ᴍᴀsᴛᴇʀ**  »» {DEFAULTUSER}\n"
-pm_caption += "• **Vᴇʀsɪᴏɴ**  »»   : 1.17.5\n"
-pm_caption += "• **Sᴜᴘᴘᴏʀᴛ Cʜᴀɴɴᴇʟ**  »»   : [ᴊᴏɪɴ](https://t.me/Kakashi_Support_Official)\n"
-pm_caption += "• **Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ**  »»      : [ᴊᴏɪɴ](https://t.me/kakashi_support)\n"
+pm_caption = "**☠ Kᴀᴋᴀsʜɪ UsᴇʀBᴏᴛ ɪs Oɴʟɪɴᴇ ☠**\n\n"
+pm_caption =         "**⚡Wᴏʀᴋɪɴɢ ᴀs ɢᴏᴏᴅ ᴀs ɪ sʜᴀʟʟ..⚡**\n\n"
+pm_caption += f"• **♛ Oᴡɴᴇʀ ♛** »» {DEFAULTUSER}\n"
+pm_caption += "• **`Vᴇʀsɪᴏɴ`**  »»  `1.17.5`\n"
+pm_caption += "• **`Sᴜᴅᴏ`**    »»  `ᴛʀᴜᴇ`  
+pm_caption += "• **`Sᴜᴘᴘᴏʀᴛ Cʜᴀɴɴᴇʟ`**  »» [Kᴀᴋᴀsʜɪ Uʙ](https://t.me/Kakashi_Support_Official)\n"
+pm_caption += "• **`Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ`**  »» [Kᴀᴋᴀsʜɪ Uʙ](https://t.me/kakashi_support)\n\n"
+pm_caption += "        **Dᴇᴘʟᴏʏ ʏᴏᴜʀ ᴏᴡɴ [Kᴀᴋᴀsʜɪ ᴜsᴇʀʙᴏᴛ](https://github.com/ProBoy-X/Kakashi-UserBot)"
 
 
 @borg.on(lightning_cmd(pattern=r"alive"))
