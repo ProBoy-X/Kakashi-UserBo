@@ -1,1 +1,1 @@
-worker: lightningrun.py
+worker: kakashi.py
