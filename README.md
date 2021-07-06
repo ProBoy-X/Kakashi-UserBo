@@ -1,4 +1,4 @@
-<h2 align="center"><b>A PᴏᴡᴇʀFᴜʟ UsᴇʀBᴏᴛ Mᴀᴅᴇ Bʏ <a href="https://telegram.dog/Its_JassManak">꧁༺ʝǟֆֆ ʍǟռǟӄ.♥️👻༻꧂</a> Wɪᴛʜ ʟᴏᴛs ᴏғ ʟᴏᴠᴇ..❤️</b></h2> 
+<h2 align="center"><b>A PᴏᴡᴇʀFᴜʟ UsᴇʀBᴏᴛ Mᴀᴅᴇ Bʏ<a href="https://telegram.dog/Its_JassManak">꧁༺ʝǟֆֆ ʍǟռǟӄ.♥️👻༻꧂</a>Wɪᴛʜ ʟᴏᴛs ᴏғ ʟᴏᴠᴇ..❤️</b></h2> 
 <br>
 <p align="center"><a href="https://t.me/Kakashi_Support"><img 
 src="https://telegra.ph/file/8e158f3cccac5ee2eeece.jpg"></a></p> 
