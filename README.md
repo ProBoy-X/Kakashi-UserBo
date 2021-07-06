@@ -15,8 +15,8 @@ src="https://telegra.ph/file/8e158f3cccac5ee2eeece.jpg"></a></p>
 [![Issᴜᴇs Oᴘᴇɴ](https://img.shields.io/github/issues/ProBoy-X/Kakashi-UserBot?&style=flat-square)]( https://github.com/ProBoy-X/Kakashi-UserBot/issues)
 [![Issᴜᴇs Cʟᴏsᴇᴅ](https://img.shields.io/github/issues-closed/ProBoy-X/Kakashi-UserBot?&style=flat-square)]( https://github.com/ProBoy-X/Kakashi-UserBot/issues?q=is:closed)
 [![PR Oᴘᴇɴ](https://img.shields.io/github/issues-pr/ProBoy-X/Kakashi-UserBot?&style=flat-square)]( https://github.com/ProBoy-X/Kakashi-UserBot/pulls)
-[![PR Cʟᴏsᴇᴅ](https://img.shields.io/github/PR Cʟᴏsᴇᴅ/ProBoy-X/Kakashi-UserBot?&style=flat-square)]( https://github.com/ProBoy-X/Kakashi-UserBot/pulls?q=is:closed)
-![Rᴇᴘᴏ Sɪᴢᴇ](https://img.shields.io/github/Rᴇᴘᴏ Sɪᴢᴇ/ProBoy-X/Kakashi-UserBot?style=flat-square)
+[![PR Cʟᴏsᴇᴅ](https://img.shields.io/github/issues-pr-closed/ProBoy-X/Kakashi-UserBot?&style=flat-square)]( https://github.com/ProBoy-X/Kakashi-UserBot/pulls?q=is:closed)
+![Rᴇᴘᴏ Sɪᴢᴇ](https://img.shields.io/github/repo-size/ProBoy-X/Kakashi-UserBot?style=flat-square)
 <br>
 
 # Credits 
