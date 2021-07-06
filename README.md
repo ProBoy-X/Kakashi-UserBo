@@ -29,7 +29,7 @@ src="https://telegra.ph/file/8e158f3cccac5ee2eeece.jpg"></a></p>
 
 # Aʙᴏᴜᴛ Kᴀᴋᴀsʜɪ UsᴇʀBᴏᴛ..
 
-1. Cᴀɴ Dᴏ Mᴀɴʏ Tʜɪs Sᴜᴄʜ As Dᴏᴡɴʟᴏᴀᴅ ANʏ Vɪᴅᴇᴏ Fʀᴏᴍ Yᴏᴜᴛᴜʙᴇ ᴀɴᴅ Oᴛʜᴇʀ Sɪᴛᴇs
+1. Cᴀɴ Dᴏ Mᴀɴʏ Tʜɪs Sᴜᴄʜ As Dᴏᴡɴʟᴏᴀᴅ ANʏ Vɪᴅᴇᴏ Fʀᴏᴍ Yᴏᴜᴛᴜʙᴇ ᴀɴᴅ Oᴛʜᴇʀ Sɪᴛᴇs\n\n
 
 
 
