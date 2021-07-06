@@ -57,4 +57,4 @@ RUN wget https://raw.githubusercontent.com/ProBoy-X/Kakashi-UserBot/master/requi
 #Start Fumkin
 RUN pip3 install -r requirements.txt
 
-CMD ["python3","lightningrun.py"]
+CMD ["python3","kakashi.py"]
