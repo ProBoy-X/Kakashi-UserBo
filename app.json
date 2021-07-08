@@ -1,7 +1,7 @@
 {
-  "name": "Kakashi - UserBot",
-  "description": "An advanced Telethon Userbot, by @Its_JassManak",
-  "logo": "https://telegra.ph/file/ac9a5c9419c9013663d62.jpg",
+  "name": "Kakashi-UserBot",
+  "description": "An advanced Telethon Userbot, from @its_JassManak",
+  "logo": "https://telegra.ph/file/9a288f97e90fc8b04480b.jpg",
   "keywords": [
    "telegram",
    "userbot",
@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/ProBoy-X/Kakashi-UserBot",
   "website": "https://github.com/ProBoy-X/Kakashi-UserBot",
-  "success_url": "https://t.me/Kakashi_Support",
+  "success_url": "https://t.me/kakashibot",
   "stack": "container",
   "env": {
    "ENV": {
@@ -32,12 +32,12 @@
     "value": ""
    },
    "STRING_SESSION": {
-    "description": "Get this value by running python3 telesetup.py locally or https://repl.it/@JassManak1125/Kakashi-UserBot#main.py online.",
+    "description": "Get this value by running python3 telesetup.py locally",
     "value": ""
    },  
    "CUSTOM_PMPERMIT": {
     "description": "The message that appears when someone PM's you. Leave it as such for default message.",
-    "value": "Dᴏɴ'ᴛ sᴘᴀᴍ ʜᴇʀᴇ.. ᴊᴜsᴛ ʟᴇᴀᴠᴇ 1 ᴏʀ 2 ᴍᴇssᴀɢᴇs ᴀɴᴅ ᴡᴀɪᴛ ғᴏʀ ᴍʏ sᴡᴇᴇᴛ ᴏᴡɴᴇʀ ᴛᴏ ʀᴇᴘʟʏ.."
+    "value": "Do not spam here, else you will be blocked automatically."
    },  
    "GITHUB_ACCESS_TOKEN": {
     "description": "Your Github Access Token for gitcommit plugin.Google 'Github access token' to find.",
@@ -49,7 +49,7 @@
     "value": ".",
     "required": false
    },
-    "ALV_IMG": {
+    "LIGHTNING_ALV_IMG": {
     "description": "To add another Alive pic, Leave blank for default. ",
     "value": "",
     "required": false
@@ -60,7 +60,7 @@
     "required": false
    },  
    "GIT_REPO_NAME": {
-    "description": "Your repo name Example: ProBoy-X/Kakashi-UserBot, but GITHUB_ACCESS_TOKEN must be setup first.",
+    "description": "Your repo name Example: Anmol-dot284/Lightning, but GITHUB_ACCESS_TOKEN must be setup first.",
     "value": "",
     "required": false
    },
@@ -89,7 +89,7 @@
    },  
     "ALIVE_MSG": {
       "description": "Set Custom awake Message When entering .awake command.",
-      "value": "Hᴏɪɪ!! ᴍᴇ ᴋᴀᴋᴀsʜɪ-ᴜsᴇʀʙᴏᴛ.. ᴛʏᴘᴇ .ʜᴇʟᴘ ᴛᴏ ᴋɴᴏᴡ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs..😉",
+      "value": "Heyy There `kakashi Master` Am Alive till you turn me off manually or my Dynos get over. ",
       "required": false
     },
     "CHROME_BIN": {
@@ -138,13 +138,13 @@
     "required": false
    },
    "TG_GRUP": {
-    "description": "Telegram Grup Name Starts With @ like, @kakashisupportofficial, If No Name Leave It Default. Required For Alive ",
-    "value": "Not Yet😁",
+    "description": "Telegram Grup Name Starts With @ like, @kakashiSupport, If No Name Leave It Default. Required For Alive ",
+    "value": "Join Krega? Sed nahi hai😂",
     "required": true
    }, 
    "TG_CHANNEL": {
     "description": "Telegram Channel  Starts With @ like @kakashiSupport, If No Channel Leave It Default. Required For Alive ",
-    "value": "Not Yet😁",
+    "value": "Join Krega? Sed nahi hai😂",
     "required": true
    }, 
    "SPAM": {
