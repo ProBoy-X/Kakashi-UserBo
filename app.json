@@ -123,12 +123,12 @@
     "required": true
    },
    "TG_BOT_TOKEN_BF_HER": {
-    "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. Get it else .help won't work.",
+    "description": "Needed for inline buttons maker. Make a bot at [BotFather] and get the token of your bot. Get it else .help won't work.",
     "value": "",
     "required": true
    },
    "TG_BOT_USER_NAME_BF_HER": {
-    "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the username of your bot. Needed for .help to work.",
+    "description": "Needed for inline buttons maker. Make a bot at [BotFather] and get the username of your bot. Needed for .help to work.",
     "value": "",
     "required": true
    },
@@ -138,12 +138,12 @@
     "required": false
    },
    "TG_GRUP": {
-    "description": "Telegram Grup Name Starts With @ like, @kakashi_support_official, If No Name Leave It Default. Required For Alive ",
+    "description": "Telegram Grup Name Starts With @ like, @kakashisupportofficial, If No Name Leave It Default. Required For Alive ",
     "value": "Not Yet😁",
     "required": true
    }, 
    "TG_CHANNEL": {
-    "description": "Telegram Channel  Starts With @ like @kakashi_Support, If No Channel Leave It Default. Required For Alive ",
+    "description": "Telegram Channel  Starts With @ like @kakashiSupport, If No Channel Leave It Default. Required For Alive ",
     "value": "Not Yet😁",
     "required": true
    }, 
